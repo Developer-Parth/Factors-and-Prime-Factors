@@ -25,3 +25,11 @@ This Python script finds the factors and prime factors of a given number. It pro
 - Finally, it prints the lists of factors and prime factors.
 
 ## Example
+
+
+## How to Run
+
+1. Copy the Python code into a file (e.g., `factor_prime_factors.py`).
+2. Run the script using Python:
+   ```bash
+   python factor_prime_factors.py
