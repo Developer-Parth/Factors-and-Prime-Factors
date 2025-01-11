@@ -26,6 +26,7 @@ This Python script finds the factors and prime factors of a given number. It pro
 
 ## Example
 
+Enter a number: 12 Factors of 12: [1, 2, 3, 4, 6, 12] Prime factors of 12: [2, 3]
 
 ## How to Run
 
@@ -33,3 +34,22 @@ This Python script finds the factors and prime factors of a given number. It pro
 2. Run the script using Python:
    ```bash
    python factor_prime_factors.py
+
+3. Enter a number when prompted.
+
+
+4. The script will display the factors and prime factors of the number.
+
+
+
+Requirements
+
+Python 3.x
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
