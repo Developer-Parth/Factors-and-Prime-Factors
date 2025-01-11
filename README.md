@@ -42,12 +42,12 @@ Enter a number: 12 Factors of 12: [1, 2, 3, 4, 6, 12] Prime factors of 12: [2, 3
 
 
 
-# Requirements
+## Requirements
 
 `Python 3.x`
 
 
-#License
+## License
 
 This project is licensed under the MIT License- see the LICENSE file for details.
 
