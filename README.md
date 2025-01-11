@@ -34,6 +34,7 @@ Enter a number: 12 Factors of 12: [1, 2, 3, 4, 6, 12] Prime factors of 12: [2, 3
 2. Run the script using Python:
    ```bash
    python factor_prime_factors.py
+```
 
 3. Enter a number when prompted.
 
